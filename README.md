@@ -6,7 +6,7 @@ I am  a retrogaming fan and mostly a tech enthusiast whose interest in code star
 custom EmulationStation theme and config files. Turns out coding my own XML files stung my curiosity way more than expected!<br>
 A whole new world was now open to me.
 
-Two years later I am now a passionate self-taught web developer who would like to start his new carreer as a Junior web developper.
+Two years later I am now a passionate self-taught web developer who would like to start his new carreer as a Junior web developer in a great company.
 My passion for web developement lies with making the ideas you dreamed-up come true.
 Always eager to learn more about all the aspects of web development
 to constantly improve my work, deliver elegant interfaces, smooth experiences and quality code.
