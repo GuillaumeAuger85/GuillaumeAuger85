@@ -29,8 +29,11 @@ to constantly improve my work, deliver elegant interfaces, smooth experiences an
 ## :pushpin: Most comprehensive repo so far
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=React-color-palette-generator)](https://github.com/GuillaumeAuger85/React-color-palette-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=YelpCamp)](https://github.com/GuillaumeAuger85/YelpCamp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=React-Light-Out-Game)](https://github.com/GuillaumeAuger85/React-Light-Out-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=React-Dad-Jokes-App)](https://github.com/GuillaumeAuger85/React-Dad-Jokes-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=React-Yahtzee)](https://github.com/GuillaumeAuger85/React-Yahtzee)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=Redsun-Project)](https://github.com/GuillaumeAuger85/Redsun-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=YelpCamp)](https://github.com/GuillaumeAuger85/YelpCamp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeAuger85&repo=Places-Des-Arts-Project)](https://github.com/GuillaumeAuger85/Places-Des-Arts-Project)
 
 ## 📈 Stats
